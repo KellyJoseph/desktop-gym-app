@@ -1,0 +1,11 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <email>email2</email>
+      <name>Eri Nishida</name>
+      <address>Toyosu</address>
+      <gender>F</gender>
+      <specialty>Zumba</specialty>
+    </Trainer>
+  </list>
+</object-stream>

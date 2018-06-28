@@ -1,0 +1,24 @@
+<object-stream>
+  <list>
+    <Member>
+      <email>email1</email>
+      <name>Joe Kelly</name>
+      <address>Wexford</address>
+      <gender>Unspecified</gender>
+      <height>1.76</height>
+      <startWeight>65.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <assessmentList>
+        <entry>
+          <string>20180520</string>
+          <Assessment>
+            <thigh>20.0</thigh>
+            <waist>32.0</waist>
+            <weight>65.0</weight>
+            <comment>Still a little pudgy</comment>
+          </Assessment>
+        </entry>
+      </assessmentList>
+    </Member>
+  </list>
+</object-stream>
